@@ -1,13 +1,11 @@
-# Cloud Computing
+# AWS Introduction
 
 ## Deployment Model
 
 ### Cloud base Deployment
 
 - run all parts on cloud
-
 - migrate and design application on cloud
-
 - eg, virtual servers, databases, and networking components that are fully based in the cloud.
 
 ### On premise deployment
@@ -21,12 +19,21 @@
 - eg, cloud base analytic with on premise database and application
 
 ## Benefit of cloud computing
+
 - ### Agility of business
+
 - ### Trade capital expenses for operating expenses
+
 - ### Benefit from massive economic scale
+
 - ### global Reach
+
 - ### share responsiblity model
+
 - ### Reliability
-- ### Availablity 
+
+- ### Availablity
+
 - ### Scalability
+
 - ### Elasticity
