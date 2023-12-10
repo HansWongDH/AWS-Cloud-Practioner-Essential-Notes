@@ -80,7 +80,7 @@
 
 - Scaling the instance based on workload
 - required to set Minimun, Desired and Maximum capacity
-
+![Alt text](image.png)
 ### Elastic load balancing
 
 - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
@@ -88,6 +88,17 @@
 - It can handled backend as by ELB directs traffic to the back end that has the least outstanding requests. Now, if the back end scales, once the new instance is ready,
 - eg, 2 request on 2 instance = 1 request to each instances
 
+## Monolithic and microservice
+
+- Monolithic
+  - tightly coupled components(server, database)
+  - single component fail, the rest fai
+![Alt text](image-1.png)
+
+- microservices
+  - loosely coupled component
+  - required Amazon SNS and Amazon SQS to facilitate application integration
+![Alt text](image-2.png)
 ## Messaging and Queueing
 
 ### Amazon Simple Queue Service
