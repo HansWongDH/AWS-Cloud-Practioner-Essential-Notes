@@ -66,6 +66,7 @@
 - EBS is useful for constant modification and writing
 
 ## Amazon Elastic File System (Amazon EFS)
+- store in multiple availablity zone
 - uses File Storage structure
 - Use when required multiple access of data at once
 - EFS allows you to have multiple instances accessing the data with auto scaling
